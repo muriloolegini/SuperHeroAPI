@@ -1,7 +1,7 @@
 <h1 align="center"> 🚧 Project under construction... 🚧 </h1>
 
 
-<h1 align="center"> API for Creating New Superheroes </h1>
+<h1 align="center"> API for Creating New Super Heroes </h1>
 
 
 ## Project Description
@@ -64,8 +64,12 @@ $ dotnet-ef database update
 $ dotnet watch run
 ```
 
-Project Status
-<img src="http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=yellow&style=for-the-badge">
+##
+
+<div>
+    <h3> Project Status </h3>
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=yellow&style=for-the-badge">
+</div>
 
 ##
 
@@ -100,7 +104,7 @@ Project Status
 
 <div align="center">
   
-  [Project Description](#Project-Description) | [Installation and Access to the Project](#Installation-and-Access-to-the-Project) | [Project Status](#Project-Status)
+  [Project Description](#Project-Description) | [Installation and Access to the Project](#Installation-and-Access-to-the-Project)
 
 </div>
 
